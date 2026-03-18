@@ -22,7 +22,10 @@ section {
     text-align: center;
 }
 
-
+h2 {
+    color: brown;
+    padding-bottom: 5px;
+}
 
 img {
     width: 200px;
